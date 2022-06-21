@@ -1,0 +1,16 @@
+{
+  "name": "lab02",
+  "version": "1.0.0",
+  "description": "kvasha",
+  "main": "bullsandcows.js",
+  "scripts": {
+    "test": "node bullsandcows.js"
+  },
+  "author": "Dmytro",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "readline-sync": "^1.4.10"
+  }
+}
